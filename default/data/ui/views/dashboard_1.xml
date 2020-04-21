@@ -3,15 +3,22 @@
   <row>
     <panel>
       <chart>
-        <title>Non-200 Accesses by Day in Last 30 Days</title>
-        <search ref="Non-200 Accesses by Day in Last 30 Days"></search>
+        <title>trakt-api &gt;= 400 by day in last 30 days</title>
+        <search ref="trakt-api &gt;= 400 by day in last 30 days"></search>
         <option name="charting.drilldown">none</option>
       </chart>
     </panel>
     <panel>
       <table>
-        <title>Non-200 Accesses by Day in Last 30 Days</title>
-        <search ref="Non-200 Accesses by Day in Last 30 Days"></search>
+        <title>trakt-api &gt;= 400 by status in last 30 days</title>
+        <search ref="trakt-api &gt;= 400 by status in last 30 days"></search>
+        <option name="drilldown">none</option>
+      </table>
+    </panel>
+    <panel>
+      <table>
+        <title>trakt-api &gt;= 400 by uri in last 30 days</title>
+        <search ref="trakt-api &gt;= 400 by uri in last 30 days"></search>
         <option name="drilldown">none</option>
       </table>
     </panel>
