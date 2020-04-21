@@ -1,0 +1,19 @@
+<dashboard theme="dark">
+  <label>Dashboard 1</label>
+  <row>
+    <panel>
+      <chart>
+        <title>Non-200 Accesses by Day in Last 30 Days</title>
+        <search ref="Non-200 Accesses by Day in Last 30 Days"></search>
+        <option name="charting.drilldown">none</option>
+      </chart>
+    </panel>
+    <panel>
+      <table>
+        <title>Non-200 Accesses by Day in Last 30 Days</title>
+        <search ref="Non-200 Accesses by Day in Last 30 Days"></search>
+        <option name="drilldown">none</option>
+      </table>
+    </panel>
+  </row>
+</dashboard>

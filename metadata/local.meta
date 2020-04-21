@@ -1,0 +1,19 @@
+[app/ui]
+version = 8.0.3
+modtime = 1587449777.303069000
+
+[app/launcher]
+version = 8.0.3
+modtime = 1587449777.303958000
+
+[views/dashboard_1]
+owner = admin
+version = 8.0.3
+modtime = 1587452807.855134000
+
+[savedsearches/Non-200%20Accesses%20by%20Day%20in%20Last%2030%20Days]
+access = read : [ * ], write : [ admin, power ]
+export = none
+owner = admin
+version = 8.0.3
+modtime = 1587452765.798201000
