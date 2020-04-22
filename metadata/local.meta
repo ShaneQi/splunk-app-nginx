@@ -33,4 +33,12 @@ modtime = 1587487006.970832000
 export = none
 owner = admin
 version = 8.0.3
-modtime = 1587532897.832076000
+modtime = 1587533633.001259000
+
+[app/install/install_source_checksum]
+version = 8.0.3
+modtime = 1587533491.955542000
+
+[inputs/monitor%3A%2F%2F%2Fdata-nginx%2Faccess.log]
+version = 8.0.3
+modtime = 1587533754.308031000
