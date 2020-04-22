@@ -3,6 +3,15 @@
   <row>
     <panel>
       <chart>
+        <title>trakt-api status range timechart in last 30 days</title>
+        <search ref="trakt-api status range timechart in last 30 days"></search>
+        <option name="charting.drilldown">none</option>
+      </chart>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <chart>
         <title>trakt-api &gt;= 400 by day in last 30 days</title>
         <search ref="trakt-api &gt;= 400 by day in last 30 days"></search>
         <option name="charting.drilldown">none</option>

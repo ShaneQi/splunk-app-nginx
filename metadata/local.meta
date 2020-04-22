@@ -9,7 +9,7 @@ modtime = 1587449777.303958000
 [views/dashboard_1]
 owner = admin
 version = 8.0.3
-modtime = 1587485776.137168000
+modtime = 1587532705.178763000
 
 [savedsearches/trakt-api%20%3E%3D%20400%20by%20day%20in%20last%2030%20days]
 export = none
@@ -28,3 +28,9 @@ export = none
 owner = admin
 version = 8.0.3
 modtime = 1587487006.970832000
+
+[savedsearches/trakt-api%20status%20range%20timechart%20in%20last%2030%20days]
+export = none
+owner = admin
+version = 8.0.3
+modtime = 1587532897.832076000
